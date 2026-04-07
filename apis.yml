@@ -8,8 +8,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - AI Automation
   - AI Agents
+  - AI Automation
   - Workflow Automation
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ai-automation/refs/heads/main/apis.yml
