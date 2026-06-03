@@ -1,0 +1,104 @@
+meta:
+  name: AI Automation
+  description: AI automation combines artificial intelligence with workflow and process
+    automation to create intelligent, autonomous systems including AI agent frameworks,
+    autonomous coding agents, AI-powered workflow platforms, intelligent process automation,
+    and AI orchestration tools.
+  tags:
+  - AI Agents
+  - AI Automation
+  - Workflow Automation
+  portal: null
+  github: null
+  repo: ai-automation
+services_tools:
+- name: ABBYY
+  repo: https://github.com/api-evangelist/abbyy
+  apisio: https://providers.apis.io/providers/abbyy/
+- name: Activepieces
+  repo: https://github.com/api-evangelist/activepieces
+  apisio: https://providers.apis.io/providers/activepieces/
+- name: AutoGen
+  repo: https://github.com/api-evangelist/autogen
+  apisio: https://providers.apis.io/providers/autogen/
+- name: AutoGPT
+  repo: https://github.com/api-evangelist/autogpt
+  apisio: https://providers.apis.io/providers/autogpt/
+- name: Automation Anywhere
+  repo: https://github.com/api-evangelist/automation-anywhere
+  apisio: https://providers.apis.io/providers/automation-anywhere/
+- name: Bardeen
+  repo: https://github.com/api-evangelist/bardeen
+  apisio: https://providers.apis.io/providers/bardeen/
+- name: Blue Prism
+  repo: https://github.com/api-evangelist/blue-prism
+  apisio: https://providers.apis.io/providers/blue-prism/
+- name: Browser Use
+  repo: https://github.com/api-evangelist/browser-use
+  apisio: https://providers.apis.io/providers/browser-use/
+- name: Crawl4AI
+  repo: https://github.com/api-evangelist/crawl4ai
+  apisio: https://providers.apis.io/providers/crawl4ai/
+- name: CrewAI
+  repo: https://github.com/api-evangelist/crewai
+  apisio: https://providers.apis.io/providers/crewai/
+- name: Cursor
+  repo: https://github.com/api-evangelist/cursor
+  apisio: https://providers.apis.io/providers/cursor/
+- name: Google ADK
+  repo: https://github.com/api-evangelist/google-adk
+  apisio: https://providers.apis.io/providers/google-adk/
+- name: Haystack
+  repo: https://github.com/api-evangelist/haystack
+  apisio: https://providers.apis.io/providers/haystack/
+- name: LangChain
+  repo: https://github.com/api-evangelist/langchain
+  apisio: https://providers.apis.io/providers/langchain/
+- name: LangGraph
+  repo: https://github.com/api-evangelist/langgraph
+  apisio: https://providers.apis.io/providers/langgraph/
+- name: Lindy
+  repo: https://github.com/api-evangelist/lindy
+  apisio: https://providers.apis.io/providers/lindy/
+- name: LlamaIndex
+  repo: https://github.com/api-evangelist/llamaindex
+  apisio: https://providers.apis.io/providers/llamaindex/
+- name: Mastra
+  repo: https://github.com/api-evangelist/mastra
+  apisio: https://providers.apis.io/providers/mastra/
+- name: n8n
+  repo: https://github.com/api-evangelist/n8n
+  apisio: https://providers.apis.io/providers/n8n/
+- name: Orkes
+  repo: https://github.com/api-evangelist/orkes
+  apisio: https://providers.apis.io/providers/orkes/
+- name: Prefect
+  repo: https://github.com/api-evangelist/prefect
+  apisio: https://providers.apis.io/providers/prefect/
+- name: Relevance AI
+  repo: https://github.com/api-evangelist/relevance-ai
+  apisio: https://providers.apis.io/providers/relevance-ai/
+- name: Semantic Kernel
+  repo: https://github.com/api-evangelist/semantic-kernel
+  apisio: https://providers.apis.io/providers/semantic-kernel/
+- name: SuperAgent
+  repo: https://github.com/api-evangelist/superagent
+  apisio: https://providers.apis.io/providers/superagent/
+- name: Temporal
+  repo: https://github.com/api-evangelist/temporal
+  apisio: https://providers.apis.io/providers/temporal/
+- name: Tray.io
+  repo: https://github.com/api-evangelist/tray-io
+  apisio: https://providers.apis.io/providers/tray-io/
+- name: UiPath
+  repo: https://github.com/api-evangelist/uipath
+  apisio: https://providers.apis.io/providers/uipath/
+- name: Workato
+  repo: https://github.com/api-evangelist/workato
+  apisio: https://providers.apis.io/providers/workato/
+- name: Zapier
+  repo: https://github.com/api-evangelist/zapier
+  apisio: https://providers.apis.io/providers/zapier/
+features: []
+use_cases: []
+integrations: []

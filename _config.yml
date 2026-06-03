@@ -1,0 +1,19 @@
+title: AI Automation
+description: AI automation combines artificial intelligence with workflow and process
+  automation to create intelligent, autonomous systems including AI agent frameworks,
+  autonomous coding agents, AI-powered workflow platforms, intelligent process automation,
+  and AI orchestration tools.
+url: https://ai-automation.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
