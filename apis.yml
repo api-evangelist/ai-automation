@@ -1,5 +1,6 @@
 aid: ai-automation
 name: AI Automation
+kind: topic
 description: >-
   AI automation combines artificial intelligence with workflow and process
   automation to create intelligent, autonomous systems including AI agent
