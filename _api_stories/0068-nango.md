@@ -1,7 +1,7 @@
 ---
-title: How to build AI agent integrations using the Nango Management MCP
-link: https://nango.dev/blog/how-to-build-ai-agent-integrations-using-the-nango-management-mcp/
-published: '2026-09-02'
+title: 'MCP elicitation: how agents ask users for input mid-tool-call'
+link: https://nango.dev/blog/mcp-elicitation-explained/
+published: '2026-09-11'
 provider: nango
 repo: https://github.com/api-evangelist/nango
 domain: nango.dev

@@ -1,8 +1,7 @@
 ---
-title: 'Scaling AI Agents: Key Takeaways from the Model Context Protocol (MCP) Specification
-  Release'
-link: https://www.gravitee.io/blog/scaling-ai-agents-key-takeaways-from-the-model-context-protocol-mcp-specification-release
-published: '2026-08-13'
+title: How Composite MCP Servers Cut Agent Token Burn by 67%
+link: https://www.gravitee.io/blog/the-cheapest-token-is-the-one-you-never-send
+published: '2026-08-20'
 provider: gravitee
 repo: https://github.com/api-evangelist/gravitee
 domain: www.gravitee.io
