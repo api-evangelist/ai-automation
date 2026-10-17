@@ -1,8 +1,7 @@
 ---
-title: Meta lets Claude and Codex configure WhatsApp Business via MCP. But the agents
-  don’t get their own identity.
-link: https://thenewstack.io/meta-mcp-whatsapp-business-claude/
-published: '2026-09-15'
+title: Cloudflare brings paid access to MCP tools — who controls the agent’s spending?
+link: https://thenewstack.io/cloudflare-x402-agent-spending/
+published: '2026-10-01'
 provider: the-new-stack
 repo: https://github.com/api-evangelist/the-new-stack
 domain: thenewstack.io
