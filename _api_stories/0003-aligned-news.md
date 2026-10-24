@@ -1,8 +1,9 @@
 ---
-title: Sarvam introduces an MCP interface for building and operating voice agents
-link: https://x.com/SarvamAI/status/2110703748083490882
-published: '2026-10-15'
+title: Mindstone Lisbon’s October meetup puts agent skills and advertising data into
+  practical demonstrations
+link: https://luma.com/x2tcvcvl
+published: '2026-10-23'
 provider: aligned-news
 repo: https://github.com/api-evangelist/aligned-news
-domain: x.com
+domain: luma.com
 ---
